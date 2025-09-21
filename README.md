@@ -42,7 +42,7 @@ Testing and bug fixes
 📋 Getting Started for Developers
 Fork the repository
 
-Clone your fork: git clone https://github.com/your-username/Vaultron.git
+Clone your fork: git clone https://github.com/boberlubit/Vaultron.git
 
 Install dependencies: pip install -r requirements.txt
 
