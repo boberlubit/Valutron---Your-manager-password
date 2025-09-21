@@ -1,4 +1,5 @@
 Vaultron - Secure Password Manager
+
 🚧 Project Status: In Development 🚧
 
 Vaultron is an open-source password manager currently under active development. We are building a secure, user-friendly solution for managing your passwords with strong encryption and modern features.
