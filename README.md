@@ -47,7 +47,6 @@ Clone your fork: git clone https://github.com/boberlubit/Vaultron.git
 
 Install dependencies: pip install -r requirements.txt
 
-Start hacking on new features!
 
 🔮 Future Vision
 We're aiming to create a password manager that combines enterprise-level security with consumer-friendly usability. Our goal is to make security accessible to everyone without compromising on protection.
