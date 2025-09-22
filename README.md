@@ -55,3 +55,6 @@ ___
 ### 🔮 Future Vision
 
 We're aiming to create a password manager that combines enterprise-level security with consumer-friendly usability. Our goal is to make security accessible to everyone without compromising on protection.
+
+
+**This my first project!)** 
